@@ -22,6 +22,8 @@ An enthusiastic **Entry-level Python Full Stack Developer** passionate about bui
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
+---
+
 ### 📈 Featured Experience & Projects
 
 **Web Development Intern | InAmigos Foundation (NGO)**
