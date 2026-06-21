@@ -48,7 +48,6 @@ An enthusiastic **Entry-level Python Full Stack Developer** passionate about bui
 ### 🤝 Connect with Me
 
 - 📧 Email: [tamilarasantec@gmail.com](mailto:tamilarasantec@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn URL Here]
 - 📞 Phone: +91 8122056803
 
 ---
